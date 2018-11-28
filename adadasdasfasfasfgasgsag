@@ -1,0 +1,138 @@
+[33mcommit 09560b08a41ca5f672ac48bf72e08b2316e6cae6[m[33m ([m[1;36mHEAD -> [m[1;32mwork[m[33m)[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 15:53:33 2018 +0900
+
+    'v02'
+
+[33mcommit e0d0ef1cdec8e71a59676f653dc6fae64f8bbe31[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 14:44:26 2018 +0900
+
+    'init2'
+
+[33mcommit 88a2d346b7a0bb1dc1eb6811df88fd6127bdcafa[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 14:35:29 2018 +0900
+
+    aa
+
+[33mcommit 2152e131ee02ce6bb15d4d7a02796ef3b4f61ce1[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 14:17:11 2018 +0900
+
+    '3333'
+
+[33mcommit 0430fbdfb5d2402f286ec304d290637786a74311[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 14:05:14 2018 +0900
+
+    '22222'
+
+[33mcommit 5f063c30182f073e13ff00ddcaebe1a0af02d47f[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 14:04:47 2018 +0900
+
+    '11111'
+
+[33mcommit f381748443410f7cf7dd325470fa4235b34ee620[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 12:30:50 2018 +0900
+
+    fixfix...
+
+[33mcommit 4964ee3b2fdc11da6cccf21db637949484e81666[m
+Merge: edda081 9c8432a
+Author: unknown <jo62>
+Date:   Wed Nov 28 12:14:00 2018 +0900
+
+    Merge branch 'b1'
+
+[33mcommit 9c8432afb4ce84d336643fae695a4173f75cfe9c[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 12:11:28 2018 +0900
+
+    'pp.txt'
+
+[33mcommit edda08138f4ec999e16953262c4348148f59c07c[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 12:06:33 2018 +0900
+
+    fix error
+
+[33mcommit 904e51929eef705ad123301d2b47d8875a8b5d14[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 12:01:00 2018 +0900
+
+    'kk.txt'
+
+[33mcommit 8d0bf7b5bd312bb4b92eeabbd9dc87b14811649c[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 12:00:09 2018 +0900
+
+    'mm.txt'
+
+[33mcommit 8a19ab8285d017aadf7f11b8e720ecfd3f465da3[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 11:49:54 2018 +0900
+
+    'z.txt'
+
+[33mcommit 7454ee93ab622315cae1320b0232e38030daa07d[m[33m ([m[1;33mtag: v1.1[m[33m)[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 11:05:10 2018 +0900
+
+    '.'
+
+[33mcommit b71a8703e7de766c0e79e3dffbf9c8c6306a4bc2[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 10:57:05 2018 +0900
+
+    '.'
+
+[33mcommit 87bae21a532e1394b6b354399f09388eca22d72f[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 10:40:28 2018 +0900
+
+    '6'
+
+[33mcommit 365d255272471ea785297941af054aaf3712f240[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 10:05:54 2018 +0900
+
+    '5'
+
+[33mcommit d7080de8a8581708c47f806fd451b77a4ea60b1d[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 10:03:47 2018 +0900
+
+    '4'
+
+[33mcommit 5481b5ad8f50039792d1901d1d6220db103364d4[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 09:59:04 2018 +0900
+
+    '3'
+
+[33mcommit 6158d7349f3d4b7fa8d1acb231b69812f7621e07[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 09:58:21 2018 +0900
+
+    '2'
+
+[33mcommit 07d0fe170947e3243d37f25cfda59a527bb48205[m
+Author: unknown <jo62>
+Date:   Wed Nov 28 09:54:36 2018 +0900
+
+    '1'
+
+[33mcommit ecb656ced8e1551e04892bbe1dc60efde9cbf008[m
+Author: unknown <jo62>
+Date:   Tue Nov 27 17:15:43 2018 +0900
+
+    create project
+
+[33mcommit b5d31daa11083433285937e662d32d02db432884[m
+Author: jo62 <42138823+jo62@users.noreply.github.com>
+Date:   Tue Nov 27 16:23:18 2018 +0900
+
+    Initial commit

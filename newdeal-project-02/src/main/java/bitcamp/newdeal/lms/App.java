@@ -28,6 +28,8 @@ public class App {
        System.out.println("일강의시간?");
        int dayHours = Integer.parseInt(keyIn.nextLine());
        
+       keyIn.close();
+       
        System.out.println("번호 : " + no);
        System.out.printf("수업명 : %s\n", title);
        System.out.printf("내용 : %s\n", contents);
